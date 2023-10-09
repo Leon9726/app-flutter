@@ -1,6 +1,6 @@
 # calcola_costi
 
-A new Flutter project.
+A new Flutter project. 
 
 ## Getting Started
 
